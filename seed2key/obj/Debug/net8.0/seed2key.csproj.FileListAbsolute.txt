@@ -1,0 +1,11 @@
+C:\Users\sahil\Documents\Codex\seed2key\seed2key\bin\Debug\net8.0\seed2key.deps.json
+C:\Users\sahil\Documents\Codex\seed2key\seed2key\bin\Debug\net8.0\seed2key.dll
+C:\Users\sahil\Documents\Codex\seed2key\seed2key\bin\Debug\net8.0\seed2key.pdb
+C:\Users\sahil\Documents\Codex\seed2key\seed2key\obj\Debug\net8.0\seed2key.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahil\Documents\Codex\seed2key\seed2key\obj\Debug\net8.0\seed2key.AssemblyInfoInputs.cache
+C:\Users\sahil\Documents\Codex\seed2key\seed2key\obj\Debug\net8.0\seed2key.AssemblyInfo.cs
+C:\Users\sahil\Documents\Codex\seed2key\seed2key\obj\Debug\net8.0\seed2key.csproj.CoreCompileInputs.cache
+C:\Users\sahil\Documents\Codex\seed2key\seed2key\obj\Debug\net8.0\seed2key.dll
+C:\Users\sahil\Documents\Codex\seed2key\seed2key\obj\Debug\net8.0\refint\seed2key.dll
+C:\Users\sahil\Documents\Codex\seed2key\seed2key\obj\Debug\net8.0\seed2key.pdb
+C:\Users\sahil\Documents\Codex\seed2key\seed2key\obj\Debug\net8.0\ref\seed2key.dll
