@@ -1,0 +1,8 @@
+## Ignore Visual Studio temporary files
+.vs/
+obj/
+# Ignore user-specific files
+*.user
+*.suo
+
+# Keep `bin/` so DLLs are included in commits
